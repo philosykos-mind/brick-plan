@@ -5,4 +5,4 @@ export const Pages = () => {
             <p className="text-lg text-gray-700">This is a simple page built with React and Tailwind CSS.</p>
         </div>
     )
-}
+} 
